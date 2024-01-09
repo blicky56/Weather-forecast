@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Waether</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="City">City\ name:</string>
+    <string name="Enable_location">Enable\ location?</string>
+    <string name="locationquestion">Location\ disabled,\ do\ you\ want\ enable\ location?</string>
+    <string name="Ok">OK</string>
+    <string name="Cancel">Cancel</string>
+</resources>
